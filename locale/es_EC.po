@@ -1,0 +1,11 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.template,cost_price_with_tax:"
+msgid "Cost Price With Tax"
+msgstr "Precio de coste con impuestos"
+
+msgctxt "field:product.template,list_price_with_tax:"
+msgid "List Price With Tax"
+msgstr "Precio de venta con impuestos"

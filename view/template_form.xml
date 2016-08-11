@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- This file is part of product_price_with_tax module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/notebook/page/field[@name='list_price']"
+            position="after">
+        <label name="list_price_with_tax"/>
+        <field name="list_price_with_tax"/>
+    </xpath>
+    <xpath expr="/form/notebook/page/field[@name='cost_price']"
+            position="after">
+        <label name="cost_price_with_tax"/>
+        <field name="cost_price_with_tax"/>
+    </xpath>
+</data>
